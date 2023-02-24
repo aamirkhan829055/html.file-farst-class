@@ -758,10 +758,438 @@ document.write("Hello World!")
 <noscript>Sorry, your browser does not support JavaScript!</noscript>
 
 ```
-html tag and 
+
+### 61 object :tag
+#### EXample: 
+
+```
+<object data="pic_trulli.jpg" width="300" height="200"></object>
+
+```
 
 
-<!-- -----///,;;;; -->
+### 62  ol,li  :tag
+#### EXample: 
+
+```
+<ol start="50">
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ol>
+
+```
+
+### 63 optgroup :tag
+#### EXample: 
+
+```
+<form action="/action_page.php">
+  <label for="cars">Choose a car:</label>
+  <select name="cars" id="cars">
+    <optgroup label="Swedish Cars">
+      <option value="volvo">Volvo</option>
+      <option value="saab">Saab</option>
+    </optgroup>
+    <optgroup label="German Cars">
+      <option value="mercedes">Mercedes</option>
+      <option value="audi">Audi</option>
+    </optgroup>
+  </select>
+  <br><br>
+  <input type="submit" value="Submit">
+</form>
+
+```
+
+### 64 option :tag
+#### EXample: 
+
+```
+
+<label for="cars">Choose a car:</label>
+
+<select id="cars">
+  <option value="volvo">Volvo</option>
+  <option value="saab">Saab</option>
+  <option value="opel">Opel</option>
+  <option value="audi">Audi</option>
+</select>
+
+```
+
+
+
+### 65 option :tag
+#### EXample: 
+
+```
+
+<label for="cars">Choose a car:</label>
+
+<select id="cars">
+  <option value="volvo">Volvo</option>
+  <option value="saab">Saab</option>
+  <option value="opel">Opel</option>
+  <option value="audi">Audi</option>
+</select>
+
+```
+
+### 66 output :tag
+#### EXample: 
+
+```
+
+<form oninput="x.value=parseInt(a.value)+parseInt(b.value)">
+<input type="range" id="a" value="50">
++<input type="number" id="b" value="25">
+=<output name="x" for="a b"></output>
+</form>
+```
+
+### 67 p :tag
+#### EXample: 
+
+```
+<p>This is a paragraph.</p>
+
+```
+
+### 68  param :tag
+#### EXample: 
+
+```
+<object data="horse.wav">
+<param name="autoplay" value="true">
+</object>
+
+``` 
+
+### 69 picture :tag
+#### EXample: 
+
+```
+<picture>
+  <source media="(min-width:650px)" srcset="img_pink_flowers.jpg">
+  <source media="(min-width:465px)" srcset="img_white_flower.jpg">
+  <img src="img_orange_flowers.jpg" alt="Flowers" style="width:auto;">
+</picture>
+
+``` 
+
+### 70 pre :tag
+#### EXample: 
+
+```
+<pre>
+Text in a pre element
+is displayed in a fixed-width
+font, and it preserves
+both      spaces and
+line breaks
+</pre>
+
+``` 
+
+### 71  progress:tag
+#### EXample: 
+
+```
+<progress id="file" value="90" max="100"> 32% </progress>
+
+``` 
+
+
+### 72 q :tag
+#### EXample: 
+
+```
+<q>Build a future where people live in harmony with nature.</q>
+We hope they succeed.</p>
+``` 
+
+### 73  s :tag
+#### EXample: 
+
+```
+<s>Only 50 tickets left!</s>
+
+``` 
+
+### 74  samp :tag
+#### EXample: 
+
+```
+<samp>File not found.<br>Press F1 to continue</samp>
+
+``` 
+
+### 75  script :tag
+#### EXample: 
+
+```
+<p id="demo"></p>
+
+<script>
+document.getElementById("demo").innerHTML = "Hello JavaScript!";
+</script>
+
+``` 
+
+### 76  section :tag
+#### EXample: 
+
+```
+<section>
+<p>
+my name is mosin khan i am web designer <p>
+</section>
+
+``` 
+### 78  select :tag
+#### EXample: 
+
+```
+ <label for="cars">Choose a car:</label>
+  <select name="cars" id="cars">
+    <option value="volvo">Volvo</option>
+    <option value="saab">Saab</option>
+    <option value="opel">Opel</option>
+    <option value="audi">Audi</option>
+  </select>
+
+``` 
+
+### 79 small :tag
+#### EXample: 
+
+```
+<small>This is some smaller text.</small>
+
+``` 
+### 80  span :tag
+#### EXample: 
+
+```
+<span style="color:blue;font-weight:bold">blue</span> 
+
+``` 
+
+
+
+### 81 strong :tag
+#### EXample: 
+
+```
+<strong>This text is important!</strong>
+
+``` 
+
+
+### 82 style :tag
+#### EXample: 
+
+```
+<style>
+  h1 {color:red;}
+</style>
+</head>
+<body>
+<h1>A heading</h1>
+</body>
+
+``` 
+
+### 83 sub :tag
+#### EXample: 
+
+```
+<p>This text contains <sub>subscript</sub> text.</p>
+
+``` 
+### 84 sup :tag
+#### EXample: 
+
+```
+<p>This text contains <sub>subscript</sup> text.</p>
+
+``` 
+
+### 85 summary :tag
+#### EXample: 
+
+```
+<details>
+  <summary>Epcot Center</summary>
+  <p>Epcot is a theme park at Walt Disney World Resort featuring exciting attractions, international pavilions, award-winning fireworks and seasonal special events.</p>
+</details>
+
+``` 
+
+### 86 svg :tag
+#### EXample: 
+
+```
+<svg width="100" height="100">
+  <circle cx="50" cy="50" r="40" stroke="green" stroke-width="4" fill="yellow" />
+  Sorry, your browser does not support inline SVG.
+</svg>
+
+``` 
+### 87 table, thead-tr-th ,tbody-th-tr , tfoot-th-tr :tag
+#### EXample: 
+
+```
+<table>
+  <thead>
+    <tr>
+      <th>Month</th>
+      <th>Savings</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>January</td>
+      <td>$100</td>
+    </tr>
+    <tr>
+      <td>February</td>
+      <td>$80</td>
+    </tr>
+  </tbody>
+  <tfoot>
+    <tr>
+      <td>Sum</td>
+      <td>$180</td>
+    </tr>
+  </tfoot>
+</table>
+
+``` 
+
+### 89 template :tag
+#### EXample: 
+
+```
+<button onclick="showContent()">Show hidden content</button>
+
+<template >
+  <h2>Flower</h2>
+  <img src="img_white_flower.jpg" width="214" height="204">
+</template>
+
+<script>
+function showContent() {
+  var temp = document.getElementsByTagName("template")[0];
+  var clon = temp.content.cloneNode(true);
+  document.body.appendChild(clon);
+}
+</script>
+
+``` 
+
+### 90  textarea :tag
+#### EXample: 
+
+```
+<form action="/action_page.php">
+  <p><label for="w3review">Review of W3Schools:</label></p>
+  <textarea id="w3review" name="w3review" rows="4" cols="50">At w3schools.com you will learn how to make a website. They offer free tutorials in all web development technologies.</textarea>
+  <br>
+  <input type="submit" value="Submit">
+</form>
+
+``` 
+### 100 time :tag
+#### EXample: 
+
+```
+<p>Open from <time>11:35</time> to <time>21:00</time> every weekday.</p>
+
+<p>I have a date on <time datetime="2008-02-14 20:00">Valentines day</time>.</p
+
+``` 
+### 101 title  :tag
+#### EXample: 
+
+```
+<title>HTML Elements Reference</title>
+
+``` 
+### 102 track :tag
+#### EXample: 
+
+```
+<video width="320" height="240" controls>
+  <source src="forrest_gump.mp4" type="video/mp4">
+  <source src="forrest_gump.ogg" type="video/ogg">
+  <track src="fgsubtitles_en.vtt" kind="subtitles" srclang="en" label="English">
+  <track src="fgsubtitles_no.vtt" kind="subtitles" srclang="no" label="Norwegian">
+</video>
+
+``` 
+### 103 u:tag
+#### EXample: 
+
+```
+<u>mispeled</u>
+  _________
+  
+```
+
+### 104 ul,il :tag
+#### EXample: 
+
+```
+<ul>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+</ul>
+
+``` 
+### 105 var :tag
+#### EXample: 
+
+```
+<p>The area of a triangle is: 1/2 x <var>b</var> x <var>h</var>, where <var>b</var> is the base, and <var>h</var> is the vertical height.</p>
+
+``` 
+
+### 106 video :tag
+#### EXample: 
+
+```
+<video width="320" height="240" controls>
+  <source src="movie.mp4" type="video/mp4">
+  <source src="movie.ogg" type="video/ogg">
+  Your browser does not support the video tag.
+</video>
+
+``` 
+
+### 107 wbr :tag
+#### EXample: 
+
+```
+
+<p>This is a veryveryveryveryveryveryveryveryve
+ryveryveryvereryveryveryvery<wbr>longwordthatwillbreakatspecific<wbr>placeswhenthebrowserwindowisresized.</p>
+
+``` 
+
+
+
+
+
+
+
+
+
+
+
 
 
 
