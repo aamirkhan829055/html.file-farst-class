@@ -1,5 +1,6 @@
-# LIST OF HTML tag 
+# LIST OF HTML tag video>
 ## html tag
+
 ### 1 a href: tag
 #### Example:
 
@@ -182,10 +183,7 @@ ctx.fillRect(0, 0, 80, 100);
     <td>January</td>
     <td>$100</td>
   </tr>
-  <tr>
-    <td>February</td>
-    <td>$50</td>
-  </tr>
+ 
 </table>
 
 
@@ -505,7 +503,7 @@ ctx.fillRect(0, 0, 80, 100);
 
 ```
 
-### 39 h1 tp h6  :tag
+### 39 h1 to h6  :tag
 #### EXample: 
 
 ```
@@ -1012,7 +1010,7 @@ my name is mosin khan i am web designer <p>
 #### EXample: 
 
 ```
-<p>This text contains <sub>subscript</sup> text.</p>
+<p>This text contains <sup>subscript</sup> text.</p>
 
 ``` 
 
