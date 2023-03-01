@@ -127,13 +127,12 @@
 my name is mosin khan i am web designer <p>
 </section>
 
-```
+``` 
 ### 12 summary: tag
 #### Example:
 
 
- 12 summary normal  text ko dikhane   
-      
+ 12 summary normal  text ko dikhane       
 ```
  <summary>Epcot Center</summary>
 
