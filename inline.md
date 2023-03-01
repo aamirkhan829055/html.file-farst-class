@@ -3,20 +3,25 @@
 #### 1 a:tag
 ####  Example:
 
+01 a:Anchor tag  link lagane ke liye kam aata hai
+
 ```
 <a href="#">x y z</a>
 
 ```
+
 ###  2 abbr :tag
 #### Example:
 
+  02 abbr:Abbr tag  "HTML"  "CSS" "dr" "asap" "atm" Jaise sanchit name  ko Parivasit  karta hai
 ```
 <abbr title="World Health Organization">x y z</abbr>
 
 ```
 ###  3 b :tag
 #### Example:
-
+ 
+ 03 b:tag normal text ko bold dikhane ke liye kaam aata hai 
 ```
 <b>and this is bold text</b>.
 
@@ -24,6 +29,8 @@
 ###  4 bdo :tag
 #### Example:
 
+
+04 bdo:text ko right to left dikhane ke kaam aata hai 
 ```
 <bdo dir="rtl">This paragraph will go right-to-left.</bdo>
 
@@ -31,6 +38,8 @@
 ### 5 br :tag
 #### Example:
 
+
+05 br:tag brack dikhane ke liye  kaam aata hain
 ```
 Written by <a href="mailto:webmaster@example.com">Jon Doe</a>.<br> 
 Visit us at:<br>
@@ -38,6 +47,7 @@ Example.com<br>
 Box 564, Disneyland<br>
 
 ```
+
 
 ### 6 button :tag
 #### Example:
