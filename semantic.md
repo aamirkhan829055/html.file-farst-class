@@ -1,7 +1,9 @@
-# semantic element tag 😎 
+# semantic element tvvtt
 
 ### 1 article : tag
 #### Example:
+
+01 article:  Kisi ke bare mein artical likhane ke liye
 
 ```
 <article>
@@ -9,10 +11,12 @@
   <p>Google Chrome is a web browser developed by Google, released in 2008. Chrome is the world's most popular web browser today!</p>
 </article>
 
+
 ```
 ### 2 aside : tag
 #### Example:
 
+02 aside tag m  content  ko show keya  jata hai 
 ```
 <aside>
   <h4>Epcot Center</h4>
@@ -22,7 +26,8 @@
 ```
 ### 3 details: tag
 #### Example:
-
+ 
+ 03 details tag hum summary ki details dikhane ke liye kaam m lete hai 
 ```
 <details>
   <summary>Epcot Center</summary>
@@ -33,6 +38,8 @@
 ### 4 figcaption: tag
 #### Example:
 
+04  figcaption tag title ko hum difain kar sakte hain 
+
 ```
 
  <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
@@ -41,6 +48,7 @@
 ### 5 figure: tag
 #### Example:
 
+ 06 figure tag title ko hum difain kar sakte hain isse bhi 
 ```
 <figure>
   <img src="pic_trulli.jpg" alt="Trulli" style="width:100%">
@@ -50,6 +58,8 @@
 ### 6 : tag
 #### Example:
 
+
+07 footer tag mai hum docomants mai dikhane ke liye lgate hai  information 
 ```
 <footer>
   <a href="mailto:hege@example.com">hege@example.com</a></p>
@@ -58,6 +68,8 @@
 ```
 ### 7 header : tag
 #### Example:
+
+08 header tag se hum aalag aalag tag ko hum difain kar sakthe h 
 
 ```<header>
     <h1>A heading here</h1>
@@ -68,6 +80,8 @@
 ```
 ### 8 main : tag
 #### Example:
+
+08 main tag HTML document mein main content ko spacehiye fay karta hai
 
 ```
 <main>
@@ -81,12 +95,16 @@
 ### 9 mark : tag
 #### Example:
 
+09 mark tag text ko hailight karne ke kam m aata hai 
+
 ```
  <mark>is a hot milk</mark>
 
 ```
 ### 10 nav : tag
 #### Example:
+
+10 nav tag :header mein  navbar navigation banane ki kam aata ha
 
 ```
 <nav>
@@ -100,6 +118,9 @@
 ### 11 section : tag
 #### Example:
 
+11 section tag kisi  web page ya  web application ke generic sections 
+ ko represent/define karta hain
+
 ```
 <section>
 <p>
@@ -110,6 +131,9 @@ my name is mosin khan i am web designer <p>
 ### 12 summary: tag
 #### Example:
 
+
+ 12 summary normal  text ko dikhane   
+      
 ```
  <summary>Epcot Center</summary>
 
