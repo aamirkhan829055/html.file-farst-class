@@ -3,7 +3,7 @@
 ### 1 article : tag
 #### Example:
 
-01 article:  Kisi ke bare mein artical likhane ke liye
+01 article:  kisi  ke bare mein artical likhane ke liye
 
 ```
 <article>
