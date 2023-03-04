@@ -4,12 +4,15 @@
 ### 1 a href: tag
 #### Example:
 
+01 a:Anchor tag  link lagane ke liye kam aata hai
 ```
 <a href="#">x y z</a>
 
 ```
 ### 2 abbr title: tag 
 #### Example:
+
+  02 abbr:Abbr tag  "HTML"  "CSS" "dr" "asap" "atm" Jaise sanchit name  ko Parivasit  karta hai
 ```
 <abbr title="World Health Organization">x y z</abbr>
 
@@ -17,7 +20,7 @@
 
 ### 3 address a: tag 
 #### Example:
-
+03 address tag address dikhane ke kaam aat hai  
 ```
 <address>
 Written by <a href="mailto:webmaster@example.com">Jon Doe</a>.<br> 
@@ -31,7 +34,7 @@ USA
 
 ### 4 area map:tag 
 #### Example:
-
+04  map tag area difaine karta hai  
 ```
 <map name="workmap">
   <area shape="rect" coords="34,44,270,350" alt="Computer" href="computer.htm">
@@ -42,7 +45,7 @@ USA
 
 ### 5 article: tag 
 ##### Example:
-
+05  article tag   kisi  ke bare mein artical likhane ke liye
 ```
 <article>
   <h2>Google Chrome</h2>
@@ -53,7 +56,7 @@ USA
 
 ### 6 aside :tag
 ##### Example:
-
+ 06  aside tag m  content  saidebar dikhane ke liye kaam hai
 ```
 <aside>
   <h4>Epcot Center</h4>
@@ -64,6 +67,7 @@ USA
 ### 7 audio controls:tag
 #### Example:
 
+07 audio tag oudio lgane ke kaam aata hai 
 
 ```
 <audio controls>
@@ -76,7 +80,7 @@ USA
 
 ### 8 b bold:tag
 #### Example:
-
+08 b:tag normal text ko bold dikhane ke liye kaam aata hai 
 ```
 <p>This is normal text - <b>and this is bold text</b>.</p>
 
@@ -87,6 +91,7 @@ USA
 ### 9 base :tag
 #### Example:
 
+1 head tag information likne ke kaam m lete hai 
 ```
 <head>
   <base href="https://www.w3schools.com/" target="_blank">
@@ -98,7 +103,8 @@ USA
 
 ### 10 bdi:tag
 #### Example:
-
+ 
+010 ul list banane kaam aati hai 
 ```
 <ul>
  <li>User <bdi>hrefs</bdi>: 60 points</li>
@@ -111,6 +117,7 @@ USA
 ### 11  bdo =rtl: tag  
 #### Example:  
 
+11 bdo tag text left to right dikhane ke kam m lete hai 
 ```
 <p><bdo dir="rtl">This paragraph will go right-to-left.</bdo></p>  
 
@@ -119,6 +126,8 @@ USA
 ### 12 blockquote:tag
 #### Example:
 
+
+ 12 blockquote tag m text information link lgate hai 
 ```
 <blockquote cite="http://www.worldwildlife.org/who/index.html">
 For 50 years, WWF has been protecting the future of nature. The world's leading conservation organization, WWF works in 100 countries and is supported by 1.2 million members in the United States and close to 5 million globally.
@@ -127,9 +136,11 @@ For 50 years, WWF has been protecting the future of nature. The world's leading 
 ```
 
 
-### 12 body:tag
+### 13 body:tag
 #### Example:
 
+
+13 body tag 
 ```
 <body>
   <h1>This is a heading</h1>
