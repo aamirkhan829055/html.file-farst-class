@@ -16,7 +16,7 @@
 ### 2 aside : tag
 #### Example:
 
-02 aside tag m  content  ko show keya  jata hai 
+02 aside tag m  content  saidebar dikhane ke liye kaam hai  
 ```
 <aside>
   <h4>Epcot Center</h4>
