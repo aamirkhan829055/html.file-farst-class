@@ -1,29 +1,38 @@
 # LIST OF HTML tag 😎
+
 ## html tag
 
 ### 1 a href: tag
+
 #### Example:
 
-01 a:Anchor tag  link lagane ke liye kam aata hai
+01 a:Anchor tag link lagane ke liye kam aata hai
+
 ```
 <a href="#">x y z</a>
 
 ```
-### 2 abbr title: tag 
+
+### 2 abbr title: tag
+
 #### Example:
 
-  02 abbr:Abbr tag  "HTML"  "CSS" "dr" "asap" "atm" Jaise sanchit name  ko Parivasit  karta hai
+02 abbr:Abbr tag "HTML" "CSS" "dr" "asap" "atm" Jaise sanchit name ko Parivasit  karta hai
+
 ```
 <abbr title="World Health Organization">x y z</abbr>
 
 ```
 
-### 3 address a: tag 
+### 3 address a: tag
+
 #### Example:
-03 address tag address dikhane ke kaam aat hai  
+
+03 address tag address dikhane ke kaam aata hai
+
 ```
 <address>
-Written by <a href="mailto:webmaster@example.com">Jon Doe</a>.<br> 
+Written by <a href="mailto:webmaster@example.com">Jon Doe</a>.<br>
 Visit us at:<br>
 Example.com<br>
 Box 564, Disneyland<br>
@@ -32,9 +41,12 @@ USA
 
 ```
 
-### 4 area map:tag 
+### 4 area map:tag
+
 #### Example:
-04  map tag area difaine karta hai  
+
+04 map tag area difaine karta hai
+
 ```
 <map name="workmap">
   <area shape="rect" coords="34,44,270,350" alt="Computer" href="computer.htm">
@@ -43,9 +55,12 @@ USA
 
 ```
 
-### 5 article: tag 
+### 5 article: tag
+
 ##### Example:
-05  article tag   kisi  ke bare mein artical likhane ke liye
+
+05 article tag kisi ke bare mein artical likhane ke liye
+
 ```
 <article>
   <h2>Google Chrome</h2>
@@ -55,8 +70,11 @@ USA
 ```
 
 ### 6 aside :tag
+
 ##### Example:
- 06  aside tag m  content  saidebar dikhane ke liye kaam hai
+
+06 aside tag m content saidebar dikhane ke liye kaam hai
+
 ```
 <aside>
   <h4>Epcot Center</h4>
@@ -64,10 +82,12 @@ USA
 </aside>
 
 ```
+
 ### 7 audio controls:tag
+
 #### Example:
 
-07 audio tag oudio lgane ke kaam aata hai 
+07 audio tag oudio song lgane ke kaam aata hai
 
 ```
 <audio controls>
@@ -79,19 +99,22 @@ USA
 ```
 
 ### 8 b bold:tag
+
 #### Example:
-08 b:tag normal text ko bold dikhane ke liye kaam aata hai 
+
+08 b:tag normal text ko bold dikhane ke liye kaam aata hai
+
 ```
 <p>This is normal text - <b>and this is bold text</b>.</p>
 
 ```
 
-
-
 ### 9 base :tag
+
 #### Example:
 
-1 head tag information likne ke kaam m lete hai 
+1 head tag information likne ke kaam m lete hai
+
 ```
 <head>
   <base href="https://www.w3schools.com/" target="_blank">
@@ -102,9 +125,11 @@ USA
 ```
 
 ### 10 bdi:tag
+
 #### Example:
- 
-010 ul list banane kaam aati hai 
+
+10 ul list banane kaam aati hai
+
 ```
 <ul>
  <li>User <bdi>hrefs</bdi>: 60 points</li>
@@ -114,20 +139,23 @@ USA
 
 ```
 
-### 11  bdo =rtl: tag  
-#### Example:  
+### 11 bdo =rtl: tag
 
-11 bdo tag text left to right dikhane ke kam m lete hai 
+#### Example:
+
+11 bdo tag text left to right dikhane ke kam m lete hai
+
 ```
-<p><bdo dir="rtl">This paragraph will go right-to-left.</bdo></p>  
+<p><bdo dir="rtl">This paragraph will go right-to-left.</bdo></p>
 
 ```
 
 ### 12 blockquote:tag
+
 #### Example:
 
+12 blockquote tag m text information link lgate hai
 
- 12 blockquote tag m text information link lgate hai 
 ```
 <blockquote cite="http://www.worldwildlife.org/who/index.html">
 For 50 years, WWF has been protecting the future of nature. The world's leading conservation organization, WWF works in 100 countries and is supported by 1.2 million members in the United States and close to 5 million globally.
@@ -135,12 +163,12 @@ For 50 years, WWF has been protecting the future of nature. The world's leading 
 
 ```
 
-
 ### 13 body:tag
+
 #### Example:
 
+13 body tag ker ander text dikaya jata hai
 
-13 body tag 
 ```
 <body>
   <h1>This is a heading</h1>
@@ -148,8 +176,12 @@ For 50 years, WWF has been protecting the future of nature. The world's leading 
 </body>
 
 ```
+
 ### 12 br break:tag
+
 #### Example:
+
+12 br brack dene ke kam aata h
 
 ```
 <p>To force<br> line breaks<br> in a text,<br> use the br<br> element.</p>
@@ -157,7 +189,10 @@ For 50 years, WWF has been protecting the future of nature. The world's leading 
 ```
 
 ### 13 button :tag
+
 #### Example:
+
+13 button input ko sammit karne ke kaam hai
 
 ```
 <button type="button" onclick="alert('Hello world!')">Click Me!</button>
@@ -165,7 +200,10 @@ For 50 years, WWF has been protecting the future of nature. The world's leading 
 ```
 
 ### 14 canvas :tag
+
 #### Example:
+
+14 kisi bhi text ko box ke ander dubane ke liye
 
 ```
 <canvas id="myCanvas">Your browser does not support the canvas tag.</canvas>
@@ -180,10 +218,12 @@ ctx.fillRect(0, 0, 80, 100);
 ```
 
 ### 15 caption :tag
+
 #### Example:
 
-```
+15 table ke upar text ko center m dikhane ke liye
 
+```
 <table>
   <caption>Monthly savings</caption>
   <tr>
@@ -194,29 +234,39 @@ ctx.fillRect(0, 0, 80, 100);
     <td>January</td>
     <td>$100</td>
   </tr>
- 
+
 </table>
 
 
 ```
+
 ### 16 cite :tag
+
 #### Example:
+
+16 cite tag text ko italic karne ke kaam aata h
 
 ```
 <p><cite>The Scream</cite> by Edward Munch. Painted in 1893.</p>
 
 ```
 
-###  17 code :tag
+### 17 code :tag
+
 #### EXample:
+
+17 code text ko small karne ke kam aata hasi
 
 ```
 <p>The CSS <code>background-color</code> property defines the background color of an element.</p>
 
 ```
 
-###  18 col :tag
+### 18 col :tag
+
 #### EXample:
+
+18 col kese bhi text yar xyz ko sefret dikane ke kaam aata hai
 
 ```
 <table>
@@ -244,30 +294,10 @@ ctx.fillRect(0, 0, 80, 100);
 ```
 
 ### 19 colgroup :tag
-#### EXample: 
 
-```
-<table>
-  <colgroup>
-    <col span="2" style="background-color:red">
-    <col style="background-color:yellow">
-  </colgroup>
-  <tr>
-    <th>ISBN</th>
-    <th>Title</th>
-    <th>Price</th>
-  </tr>
-  <tr>
-    <td>3476896</td>
-    <td>My first HTML</td>
-    <td>$53</td>
-  </tr>
-</table>
+#### EXample:
 
-```
-
-### 20 data :tag
-#### EXample: 
+19 colgroup col spasing ke ander color de ne ke kam
 
 ```
 <table>
@@ -290,7 +320,10 @@ ctx.fillRect(0, 0, 80, 100);
 ```
 
 ### 21 data :tag
+
 #### EXample:
+
+21 ul list banane ke kaam aati hai
 
 ```
 <ul>
@@ -301,19 +334,11 @@ ctx.fillRect(0, 0, 80, 100);
 
 ```
 
-### 22 data :tag
-#### EXample:
-
-```
-<ul>
-  <li><data value="21053">Cherry Tomato</data></li>
-  <li><data value="21054">Beef Tomato</data></li>
-  <li><data value="21055">Snack Tomato</data></li>
-</ul>
-
-```
 ### 23 datalist :tag
-#### EXample: 
+
+#### EXample:
+
+23 datalist :tag kisi ke bare m datalist likne ke kaam aata hai
 
 ```
 <form action="/action_page.php" method="get">
@@ -331,9 +356,11 @@ ctx.fillRect(0, 0, 80, 100);
 
 ```
 
+### 24 dd Definition :tag
 
-### 24 dd  Definition :tag
-#### EXample: 
+#### EXample:
+
+24 dd tag 1 tarah se list dihane ke liye
 
 ```
 <dl>
@@ -346,17 +373,21 @@ ctx.fillRect(0, 0, 80, 100);
 ```
 
 ### 25 del :tag
-#### EXample: 
+
+#### EXample:
+
+12 del tag kisi bhi text ke center underline dikane ke liye kaam aata h
 
 ```
-<p>My favorite color is <del>blue</del> <ins>red</ins>!</p>
+<p>My favorite color is <del>blue</del> </p>
 
 ```
-
-
 
 ### 26 details :tag
-#### EXample: 
+
+#### EXample:
+
+26 details tag x y z text ko one icon ke ander dikane ke liye kaam aata
 
 ```
 <details>
@@ -366,24 +397,22 @@ ctx.fillRect(0, 0, 80, 100);
 
 ```
 
-### 27  dfn :tag
-#### EXample: 
+### 27 dfn :tag
+
+#### EXample:
+
+27 dfn web page banane ke manak markab l ?bhasha hain
 
 ```
 <p><dfn>HTML</dfn> is the standard markup language for creating web pages.</p>
 
 ```
 
+### 29 dialog :tag
 
-### 28  dfn :tag
-#### EXample: 
+#### EXample:
 
-```
-<p><dfn>HTML</dfn> is the standard markup language for creating web pages.</p>
-
-```
-### 29  dialog :tag
-#### EXample: 
+29 dialog tag windiw opan kane ke kaam aata hai
 
 ```
 <p>This is some text.</p>
@@ -398,9 +427,12 @@ ctx.fillRect(0, 0, 80, 100);
 
 ```
 
-
 ### 30 div :tag
-#### EXample: 
+
+#### EXample:
+
+30 div tag kisi bhi text KO SEfret dikane ke liye kaam m lete hai
+our class bhi lgate hai
 
 ```
 <div class="myDiv">
@@ -410,8 +442,11 @@ ctx.fillRect(0, 0, 80, 100);
 
 ```
 
-### 31 dl  :tag
-#### EXample: 
+### 31 dl :tag
+
+#### EXample:
+
+31 dl list banane ke kaam aata hai
 
 ```
 <dl>
@@ -423,8 +458,11 @@ ctx.fillRect(0, 0, 80, 100);
 
 ```
 
-### 32 dt  :tag
-#### EXample: 
+### 32 dt :tag
+
+#### EXample:
+
+32 dt list banane ke kaam aata hai
 
 ```
 <dl>
@@ -435,8 +473,12 @@ ctx.fillRect(0, 0, 80, 100);
 </dl>
 
 ```
+
 ### 33 em :tag
-#### EXample: 
+
+#### EXample:
+
+33 em tag text ko italic kane m kaam aati hai
 
 ```
 <p>We <em>cannot</em> live like this.</p>
@@ -444,18 +486,19 @@ ctx.fillRect(0, 0, 80, 100);
 ```
 
 ### 34 embed :tag
-#### EXample: 
+#### EXample:
+
+34 embed tag img lgane ke liye  use m lete hain   
 
 ```
-
 <embed type="image/jpg" src="pic_trulli.jpg" width="300" height="200">
 
 ```
 
-
 ### 35 fieldset :tag
-#### EXample: 
+#### EXample:
 
+35 fieldset tag for aur border dikane ke kaam aata hain
 ```
 <form action="/action_page.php">
  <fieldset>
@@ -467,9 +510,9 @@ ctx.fillRect(0, 0, 80, 100);
 
 ```
 
-
 ### 36 figcaption :tag
-#### EXample: 
+#### EXample:
+36 figcaption tag title ko hum difain kar sakte hain 
 
 ```
 <figure>
@@ -480,8 +523,9 @@ ctx.fillRect(0, 0, 80, 100);
 ```
 
 ### 37 figure :tag
-#### EXample: 
+#### EXample:
 
+ 37 figure tag title ko hum difain kar sakte hain isse bhi 
 ```
 <figure>
   <img src="pic_trulli.jpg" alt="Trulli" style="width:100%">
@@ -491,7 +535,9 @@ ctx.fillRect(0, 0, 80, 100);
 ```
 
 ### 37 footer :tag
-#### EXample: 
+#### EXample:
+
+37  footer tag mai hum docomants mai dikhane ke liye lgate hai  information 
 
 ```
 <footer>
@@ -501,7 +547,8 @@ ctx.fillRect(0, 0, 80, 100);
 ```
 
 ### 38 form :tag
-#### EXample: 
+#### EXample:
+38 form tag input ko difaind karta hai uska sefretg rahta hai 
 
 ```
 <form action="/action_page.php">
@@ -514,8 +561,10 @@ ctx.fillRect(0, 0, 80, 100);
 
 ```
 
-### 39 h1 to h6  :tag
-#### EXample: 
+### 39 h1 to h6 :tag
+#### EXample:
+
+39 hedding hoti hain ye text ko small ya big karne ke kaam m aati ha
 
 ```
 
@@ -529,8 +578,9 @@ ctx.fillRect(0, 0, 80, 100);
 ```
 
 ### 40 head :tag
-#### EXample: 
+#### EXample:
 
+40 head tag ke aunder information aati h 
 ```
 
 <head>
@@ -539,8 +589,11 @@ ctx.fillRect(0, 0, 80, 100);
 
 ```
 
-### 41 hadeer  :tag
-#### EXample: 
+### 41 hadeer :tag
+
+#### EXample:
+
+41  hadeer tag nabvar banane ke kaam aati hain
 
 ```
   <header>
@@ -552,53 +605,64 @@ ctx.fillRect(0, 0, 80, 100);
 ```
 
 ### 42 hr line :tag
-#### EXample: 
+#### EXample:
+
+42 hr horry jontali  line lgane ke kaam aata hain 
 
 ```
-hr_______
+hr__________
 
 ```
 
+### 43 html hayper :tag 
 
-### 43 html hayper :tag
-#### EXample: 
+#### EXample:
+ 43 html  Hypertext Markup Language
 
 ```
 <html lang="en">
 
 ```
-### 44  i / :tag
-#### EXample: 
 
+### 44 i / :tag
+
+#### EXample:
+44 t tag text ko italic karne ke kaam aata ahai 
 ```
 <p>
 
-<i>Lorem ipsum</i> 
+<i>Lorem ipsum</i>
 
 is the most popular filler text in history.</p>
 
 ```
 
+### 45 iframe :tag
+#### EXample:
 
-
-### 45  iframe :tag
-#### EXample: 
+45 iframe tag se hum link lgate hai 
 
 ```
 <iframe src="https://www.w3schools.com" title="W3Schools Free Online Web Tutorials"></iframe>
 
 ```
 
-### 46  img  :tag
-#### EXample: 
+### 46 img :tag
+
+#### EXample:
+
+ 46 img tag img so karane ke kaam aat  aata hai  
+
 
 ```
 <img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
 
 ```
 
+### 47 input :tag
 
-### 47  input :tag
+
+47 input the tag specifies an input field set karta hai  ji hum deta darj kar sakte hai 
 #### EXample: 
 
 ```
@@ -626,24 +690,32 @@ _________________________________________________
 
 ```
 
-### 48  ins  :tag
-#### EXample: 
+### 48 ins :tag
+48 ins text ke neche underline lgane ke kaam aatg hai 
+#### EXample:
 
 ```
 <p>My favorite color is <del>blue</del> <ins>red</ins>!</p>
 
 ```
 
-### 51  kbd :tag
-#### EXample: 
+### 51 kbd :tag
+
+
+51 kbd tag leptop ki E;[ctrl+c] kye ko likne ke kaam aata hai 
+
+#### EXample:
 
 ```
 
 <p>Press <kbd>Cmd</kbd> + <kbd>C</kbd> to copy text (Mac OS).</p>
 
 ```
-### 52  label :tag
-#### EXample: 
+
+### 52 label :tag
+
+52 table tatv ke bheetar paath par klik karata hai, to inaaput ko togal karata hai.
+#### EXample:
 
 ```
 
@@ -652,19 +724,13 @@ _________________________________________________
 
 ```
 
-### 53  label :tag
-#### EXample: 
-
-```
-
- <label for="html">HTML</label><br>
-  <input type="radio" id="css" name="fav_language" value="CSS">
-
-```
 
 
 ### 54 li :tag
-#### EXample: 
+
+54 li tag li list banane ke kaam aata hai 
+
+#### EXample:
 
 ```
 
@@ -677,7 +743,9 @@ _________________________________________________
 ```
 
 ### 53 link :tag
-#### EXample: 
+
+53 link tah  taig ka upayog aksar baaharee stail sheet se link karane ya apanee vebasait par fevikon jodane ke lie kiya jaata hai.
+#### EXample:
 
 ```
 
@@ -686,9 +754,10 @@ _________________________________________________
 </head>
 
 ```
-
+54 main tag taig dastaavez kee mukhy saamagree ko nirdisht karata hai.
 ### 54 main :tag
-#### EXample: 
+
+#### EXample:
 
 ```
 <main>
@@ -699,8 +768,10 @@ _________________________________________________
 </main>
 
 ```
+
 ### 55 map :tag
-#### EXample: 
+55 map tag imej maip ko paribhaashit karane ke lie map taig ka upayog kiya jaata hai. ek chhavi maanachitr klik karane yogy kshetron vaalee ek chhavi hai.
+#### EXample:
 
 ```
 <map name="workmap">
@@ -712,14 +783,22 @@ _________________________________________________
 ```
 
 ### 56 mark :tag
-#### EXample: 
+
+ 56 mark tag text ko hailight karne ke kam m aata hai 
+  
+
+#### EXample:
 
 ```
 <p>Do not forget to buy <mark>milk</mark> today.</p>
 
 ```
-### 57 meta  :tag
-#### EXample: 
+
+### 57 meta :tag
+
+ 57 <map> taig ka upayog mait taig html dastaavez ke baare mein metaadeta ko paribhaashit karane ke lie kiya jaata hai.
+
+#### EXample:
 
 ```
 <head>
@@ -732,8 +811,10 @@ _________________________________________________
 
 
 ```
+
 ### 58 meter :tag
-#### EXample: 
+ 58 meter  tag  taig ek gyaat seema, ya ek aanshik maan ke bheetar ek skelar maap ko paribhaashit karata hai. ise gej ke roop mein bhee jaana jaata hai.
+#### EXample:
 
 ```
 <label for="disk_c">Disk usage C:</label>
@@ -744,8 +825,12 @@ _________________________________________________
 
 
 ```
+
 ### 59 nav :tag
-#### EXample: 
+
+59 nav tag navbar banane ke kaam aata hai
+
+#### EXample:
 
 ```
 <nav>
@@ -758,7 +843,8 @@ _________________________________________________
 ```
 
 ### 60 noscript :tag
-#### EXample: 
+60 noschript tag  taig un upayogakartaon ko pradarshit karane ke lie ek vaikalpik saamagree ko paribhaashit karata ha
+#### EXample:
 
 ```
 <script>
@@ -769,16 +855,20 @@ document.write("Hello World!")
 ```
 
 ### 61 object :tag
-#### EXample: 
+
+  61 pbject tag image ko fit  rakta hai  
+#### EXample:
 
 ```
 <object data="pic_trulli.jpg" width="300" height="200"></object>
 
 ```
 
+### 62 ol,li :tag
 
-### 62  ol,li  :tag
-#### EXample: 
+
+62 ol li tag list bane ke kaam aata 
+#### EXample:
 
 ```
 <ol start="50">
@@ -790,7 +880,10 @@ document.write("Hello World!")
 ```
 
 ### 63 optgroup :tag
-#### EXample: 
+
+ 63 optgroup tag  taig ka upayog chayan tatv (drop-daun soochee) mein sambandhit vikalpon ko samoohit karane ke lie kiya jaata hai.
+
+#### EXample:
 
 ```
 <form action="/action_page.php">
@@ -812,7 +905,9 @@ document.write("Hello World!")
 ```
 
 ### 64 option :tag
-#### EXample: 
+
+64 option vikalp taig ek chayan soochee mein ek vikalp ko paribhaashit karata hai.
+#### EXample:
 
 ```
 
@@ -827,26 +922,12 @@ document.write("Hello World!")
 
 ```
 
-
-
-### 65 option :tag
-#### EXample: 
-
-```
-
-<label for="cars">Choose a car:</label>
-
-<select id="cars">
-  <option value="volvo">Volvo</option>
-  <option value="saab">Saab</option>
-  <option value="opel">Opel</option>
-  <option value="audi">Audi</option>
-</select>
-
-```
 
 ### 66 output :tag
-#### EXample: 
+
+ 66 aautaput taig ka upayog ganana ke parinaam ka pratinidhitv karane ke lie kiya jaata hai (jaise ki ek skript dvaara kiya gaya).
+ 
+#### EXample:
 
 ```
 
@@ -858,25 +939,28 @@ document.write("Hello World!")
 ```
 
 ### 67 p :tag
-#### EXample: 
+
+#### EXample:
 
 ```
 <p>This is a paragraph.</p>
 
 ```
 
-### 68  param :tag
-#### EXample: 
+### 68 param :tag
+
+#### EXample:
 
 ```
 <object data="horse.wav">
 <param name="autoplay" value="true">
 </object>
 
-``` 
+```
 
 ### 69 picture :tag
-#### EXample: 
+
+#### EXample:
 
 ```
 <picture>
@@ -885,10 +969,11 @@ document.write("Hello World!")
   <img src="img_orange_flowers.jpg" alt="Flowers" style="width:auto;">
 </picture>
 
-``` 
+```
 
 ### 70 pre :tag
-#### EXample: 
+
+#### EXample:
 
 ```
 <pre>
@@ -899,43 +984,47 @@ both      spaces and
 line breaks
 </pre>
 
-``` 
+```
 
-### 71  progress:tag
-#### EXample: 
+### 71 progress:tag
+
+#### EXample:
 
 ```
 <progress id="file" value="90" max="100"> 32% </progress>
 
-``` 
-
+```
 
 ### 72 q :tag
-#### EXample: 
+
+#### EXample:
 
 ```
 <q>Build a future where people live in harmony with nature.</q>
 We hope they succeed.</p>
-``` 
+```
 
-### 73  s :tag
-#### EXample: 
+### 73 s :tag
+
+#### EXample:
 
 ```
 <s>Only 50 tickets left!</s>
 
-``` 
+```
 
-### 74  samp :tag
-#### EXample: 
+### 74 samp :tag
+
+#### EXample:
 
 ```
 <samp>File not found.<br>Press F1 to continue</samp>
 
-``` 
+```
 
-### 75  script :tag
-#### EXample: 
+### 75 script :tag
+
+#### EXample:
 
 ```
 <p id="demo"></p>
@@ -944,10 +1033,11 @@ We hope they succeed.</p>
 document.getElementById("demo").innerHTML = "Hello JavaScript!";
 </script>
 
-``` 
+```
 
-### 76  section :tag
-#### EXample: 
+### 76 section :tag
+
+#### EXample:
 
 ```
 <section>
@@ -955,9 +1045,11 @@ document.getElementById("demo").innerHTML = "Hello JavaScript!";
 my name is mosin khan i am web designer <p>
 </section>
 
-``` 
-### 78  select :tag
-#### EXample: 
+```
+
+### 78 select :tag
+
+#### EXample:
 
 ```
  <label for="cars">Choose a car:</label>
@@ -968,36 +1060,38 @@ my name is mosin khan i am web designer <p>
     <option value="audi">Audi</option>
   </select>
 
-``` 
+```
 
 ### 79 small :tag
-#### EXample: 
+
+#### EXample:
 
 ```
 <small>This is some smaller text.</small>
 
-``` 
-### 80  span :tag
-#### EXample: 
+```
+
+### 80 span :tag
+
+#### EXample:
 
 ```
-<span style="color:blue;font-weight:bold">blue</span> 
+<span style="color:blue;font-weight:bold">blue</span>
 
-``` 
-
-
+```
 
 ### 81 strong :tag
-#### EXample: 
+
+#### EXample:
 
 ```
 <strong>This text is important!</strong>
 
-``` 
-
+```
 
 ### 82 style :tag
-#### EXample: 
+
+#### EXample:
 
 ```
 <style>
@@ -1008,25 +1102,29 @@ my name is mosin khan i am web designer <p>
 <h1>A heading</h1>
 </body>
 
-``` 
+```
 
 ### 83 sub :tag
-#### EXample: 
+
+#### EXample:
 
 ```
 <p>This text contains <sub>subscript</sub> text.</p>
 
-``` 
+```
+
 ### 84 sup :tag
-#### EXample: 
+
+#### EXample:
 
 ```
 <p>This text contains <sup>subscript</sup> text.</p>
 
-``` 
+```
 
 ### 85 summary :tag
-#### EXample: 
+
+#### EXample:
 
 ```
 <details>
@@ -1034,10 +1132,11 @@ my name is mosin khan i am web designer <p>
   <p>Epcot is a theme park at Walt Disney World Resort featuring exciting attractions, international pavilions, award-winning fireworks and seasonal special events.</p>
 </details>
 
-``` 
+```
 
 ### 86 svg :tag
-#### EXample: 
+
+#### EXample:
 
 ```
 <svg width="100" height="100">
@@ -1045,9 +1144,11 @@ my name is mosin khan i am web designer <p>
   Sorry, your browser does not support inline SVG.
 </svg>
 
-``` 
+```
+
 ### 87 table, thead-tr-th ,tbody-th-tr , tfoot-th-tr :tag
-#### EXample: 
+
+#### EXample:
 
 ```
 <table>
@@ -1075,10 +1176,11 @@ my name is mosin khan i am web designer <p>
   </tfoot>
 </table>
 
-``` 
+```
 
 ### 89 template :tag
-#### EXample: 
+
+#### EXample:
 
 ```
 <button onclick="showContent()">Show hidden content</button>
@@ -1096,10 +1198,11 @@ function showContent() {
 }
 </script>
 
-``` 
+```
 
-### 90  textarea :tag
-#### EXample: 
+### 90 textarea :tag
+
+#### EXample:
 
 ```
 <form action="/action_page.php">
@@ -1109,25 +1212,31 @@ function showContent() {
   <input type="submit" value="Submit">
 </form>
 
-``` 
+```
+
 ### 100 time :tag
-#### EXample: 
+
+#### EXample:
 
 ```
 <p>Open from <time>11:35</time> to <time>21:00</time> every weekday.</p>
 
 <p>I have a date on <time datetime="2008-02-14 20:00">Valentines day</time>.</p
 
-``` 
-### 101 title  :tag
-#### EXample: 
+```
+
+### 101 title :tag
+
+#### EXample:
 
 ```
 <title>HTML Elements Reference</title>
 
-``` 
+```
+
 ### 102 track :tag
-#### EXample: 
+
+#### EXample:
 
 ```
 <video width="320" height="240" controls>
@@ -1137,18 +1246,21 @@ function showContent() {
   <track src="fgsubtitles_no.vtt" kind="subtitles" srclang="no" label="Norwegian">
 </video>
 
-``` 
+```
+
 ### 103 u:tag
-#### EXample: 
+
+#### EXample:
 
 ```
 <u>mispeled</u>
   _________
-  
+
 ```
 
 ### 104 ul,il :tag
-#### EXample: 
+
+#### EXample:
 
 ```
 <ul>
@@ -1158,17 +1270,20 @@ function showContent() {
 <li></li>
 </ul>
 
-``` 
+```
+
 ### 105 var :tag
-#### EXample: 
+
+#### EXample:
 
 ```
 <p>The area of a triangle is: 1/2 x <var>b</var> x <var>h</var>, where <var>b</var> is the base, and <var>h</var> is the vertical height.</p>
 
-``` 
+```
 
 ### 106 video :tag
-#### EXample: 
+
+#### EXample:
 
 ```
 <video width="320" height="240" controls>
@@ -1177,42 +1292,15 @@ function showContent() {
   Your browser does not support the video tag.
 </video>
 
-``` 
+```
 
 ### 107 wbr :tag
-#### EXample: 
+
+#### EXample:
 
 ```
 
 <p>This is a veryveryveryveryveryveryveryveryve
 ryveryveryvereryveryveryvery<wbr>longwordthatwillbreakatspecific<wbr>placeswhenthebrowserwindowisresized.</p>
 
-``` 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+```
